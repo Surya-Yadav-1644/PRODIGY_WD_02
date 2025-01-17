@@ -1,2 +1,2 @@
 # PRODIGY_WD_02
-TASK 2 : STOPWATCH WEB APPLICATION
+I'm build a stopwatch web application using html , css , javascript
